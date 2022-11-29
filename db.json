@@ -1,0 +1,27 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "Hello World",
+        "body": "Quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      },
+      {
+        "id": 2,
+        "title": "Eum Et Est Occaecati",
+        "body": "Recusandae consequuntur expedita et cum\nreprehenderit ut quas totam\nautem sunt rem eveniet architecto"
+      }
+    ],
+    "accounts":[
+      {
+        "id":1,
+        "name":"Admin",
+        "age":1,
+        "salary":0,
+        "maritalStatus":false,
+        "country":"unknown",
+        "email":"admin@gmail.com",
+        "password":"olaolaola",
+        "address":"demon gali"
+      }
+    ]
+  }
